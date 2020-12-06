@@ -7,7 +7,7 @@
   "database": {
     "client": "sqlite3",
     "connection": {
-      "filename": "/Users/jessetremblay/Sites/content/data/ghost-local.db"
+      "filename": "/Users/jessetremblay/Sites/personal_site/jtrem/content/data/ghost-local.db"
     }
   },
   "mail": {
@@ -21,6 +21,6 @@
   },
   "process": "local",
   "paths": {
-    "contentPath": "/Users/jessetremblay/Sites/content"
+    "contentPath": "/Users/jessetremblay/Sites/personal_site/jtrem/content"
   }
 }
