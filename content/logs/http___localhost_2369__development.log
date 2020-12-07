@@ -46,3 +46,5 @@
 {"name":"Log","hostname":"Jesses-MBP","pid":6095,"level":30,"msg":"Url configured as: http://localhost:2369/","time":"2020-12-07T02:44:18.316Z","v":0}
 {"name":"Log","hostname":"Jesses-MBP","pid":6095,"level":30,"msg":"Ctrl+C to shut down","time":"2020-12-07T02:44:18.317Z","v":0}
 {"name":"Log","hostname":"Jesses-MBP","pid":6095,"level":30,"msg":"Ghost boot 4.809s","time":"2020-12-07T02:44:18.318Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":6095,"level":40,"msg":"Ghost is shutting down","time":"2020-12-07T02:59:33.244Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":6095,"level":40,"msg":"Ghost has shut down","time":"2020-12-07T02:59:33.246Z","v":0}
