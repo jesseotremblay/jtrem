@@ -15,12 +15,12 @@
 <itunes:author>{{@site.title}}</itunes:author>
 <itunes:summary>{{@site.description}}</itunes:summary>
 <itunes:owner>
-    <itunes:name>Your Name</itunes:name>
-    <itunes:email>youremail@example.com</itunes:email>
+    <itunes:name>Jesse Tremblay</itunes:name>
+    <itunes:email>jtrem@hey.com</itunes:email>
 </itunes:owner>
-<itunes:explicit>clean</itunes:explicit>
+<itunes:explicit>explicit</itunes:explicit>
 <itunes:image href="{{img_url @site.icon absolute="true"}}"/>
-<itunes:category text="Technology"></itunes:category>
+<itunes:category text="Technology">Technology</itunes:category>
 
 {{#get "posts" filter="tag:podcast" include="tags,authors" as |episode|}}
     {{#foreach episode}}
