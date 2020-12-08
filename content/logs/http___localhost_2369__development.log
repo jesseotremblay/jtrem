@@ -1,0 +1,50 @@
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: posts","time":"2020-12-08T02:20:28.852Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: posts_meta","time":"2020-12-08T02:20:28.857Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: users","time":"2020-12-08T02:20:28.860Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: posts_authors","time":"2020-12-08T02:20:28.865Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: roles","time":"2020-12-08T02:20:28.867Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: roles_users","time":"2020-12-08T02:20:28.870Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: permissions","time":"2020-12-08T02:20:28.872Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: permissions_users","time":"2020-12-08T02:20:28.875Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: permissions_roles","time":"2020-12-08T02:20:28.877Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: permissions_apps","time":"2020-12-08T02:20:28.879Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: settings","time":"2020-12-08T02:20:28.881Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: tags","time":"2020-12-08T02:20:28.883Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: posts_tags","time":"2020-12-08T02:20:28.887Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: apps","time":"2020-12-08T02:20:28.889Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: app_settings","time":"2020-12-08T02:20:28.892Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: app_fields","time":"2020-12-08T02:20:28.896Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: invites","time":"2020-12-08T02:20:28.898Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: brute","time":"2020-12-08T02:20:28.902Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: webhooks","time":"2020-12-08T02:20:28.905Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: sessions","time":"2020-12-08T02:20:28.906Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: integrations","time":"2020-12-08T02:20:28.909Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: api_keys","time":"2020-12-08T02:20:28.913Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2020-12-08T02:20:28.915Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: members","time":"2020-12-08T02:20:28.918Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: labels","time":"2020-12-08T02:20:28.922Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: members_labels","time":"2020-12-08T02:20:28.926Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: members_stripe_customers","time":"2020-12-08T02:20:28.928Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2020-12-08T02:20:28.931Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: actions","time":"2020-12-08T02:20:28.933Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: emails","time":"2020-12-08T02:20:28.935Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: email_batches","time":"2020-12-08T02:20:28.939Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: email_recipients","time":"2020-12-08T02:20:28.941Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: tokens","time":"2020-12-08T02:20:28.948Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Creating table: snippets","time":"2020-12-08T02:20:28.951Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Model: Tag","time":"2020-12-08T02:20:28.956Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Model: Role","time":"2020-12-08T02:20:28.973Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Model: Permission","time":"2020-12-08T02:20:28.990Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Model: User","time":"2020-12-08T02:20:29.156Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Model: Post","time":"2020-12-08T02:20:29.529Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Model: Integration","time":"2020-12-08T02:20:29.706Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Relation: Role to Permission","time":"2020-12-08T02:20:29.729Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Relation: Post to Tag","time":"2020-12-08T02:20:29.912Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Relation: User to Role","time":"2020-12-08T02:20:29.934Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Ghost is running in development...","time":"2020-12-08T02:20:32.389Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Listening on: 127.0.0.1:2369","time":"2020-12-08T02:20:32.390Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Url configured as: http://localhost:2369/","time":"2020-12-08T02:20:32.390Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Ctrl+C to shut down","time":"2020-12-08T02:20:32.391Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":30,"msg":"Ghost boot 5.484s","time":"2020-12-08T02:20:32.392Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":40,"msg":"Ghost is shutting down","time":"2020-12-08T02:20:44.322Z","v":0}
+{"name":"Log","hostname":"Jesses-MBP","pid":9342,"level":40,"msg":"Ghost has shut down","time":"2020-12-08T02:20:44.325Z","v":0}
