@@ -16,6 +16,9 @@ collections:
   /podcast/:
     permalink: /podcast/{slug}/
     filter: tag:podcast+tag:-blog
+  /news/:
+    permalink: /news/{slug}/
+    filter: tag:news+tag:-blog
 
 taxonomies:
   tag: /tag/{slug}/
